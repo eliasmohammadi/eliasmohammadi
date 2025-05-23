@@ -7,15 +7,6 @@
 - 🌐 Personal site: [eliasmohammadi.com](https://eliasmohammadi.com) <!-- Replace with your real link -->
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eliasmohammadi)
 
----
-
-### 📊 GitHub Stats & Activity
-
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmohammadi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmohammadi&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eliasmohammadi&theme=radical)
 
 
 <!---
